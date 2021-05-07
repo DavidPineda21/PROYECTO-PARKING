@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data.SqlClient;
+
+namespace Proyecto_final
+{
+    public class Clssregistrar
+    {
+        public bool guardar_usuario(string nomusuario, string apllusuario, string usuario, string contraseña)
+        {
+            try
+            {
+                SqlCommand scmd = new SqlCommand();
+                scmd.Connection = objconexion.abrir_base();
+                scmd.CommandText = "spGuardar_paciente";
+                scmd.CommandType = CommandType.StoredProcedure;
+                scmd.Parameters.Add("@nomusua", nomusuario);
+                scmd.Parameters.Add("@apllusua",apllusuario );
+                scmd.Parameters.Add("@usuari", usuario);
+                scmd.Parameters.Add("@contrase", contraseña);
+                scmd.ExecuteNonQuery();
+                return true;
+
+            }
+            catch (Exception error)
+            {
+                throw new Exception(error.Message);
+            }
+
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data.SqlClient;
+
+namespace Proyecto_final { 
+
+    public class Clsconexion
+    {
+            public SqlConnection abrir_base()
+            {
+                try
+                {
+                    SqlConnection cnn = new SqlConnection();
+                    cnn.ConnectionString = "data source = 312A-38\\FUNLAM; database = hospital_2018; user id = sa; pwd = 1";
+                    cnn.Open();
+                    return cnn;
+
+                }
+                catch (Exception error)
+                {
+                    throw new Exception(error.Message);
+                }
+
+            }
+        }
+    }

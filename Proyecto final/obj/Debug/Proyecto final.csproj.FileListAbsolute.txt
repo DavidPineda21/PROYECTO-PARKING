@@ -1,0 +1,406 @@
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\Proyecto final.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Aleida Cespedes\Documents\J Camilo Giraldo Céspedes\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\Proyecto final.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleida Cespedes\Desktop\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\Proyecto final.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Documents\Proyecto final\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\Proyecto final.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Aleida Cespedes\Documents\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\Proyecto final.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Daniela\Documents\Estudio\PF\Proyecto final02\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\Proyecto final.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Daniela\Documents\Estudio\PF\PF\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\Proyecto final.dll.config
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\Proyecto final.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\Proyecto final.pdb
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csc.exe
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csc.exe.config
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csc.rsp
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csi.exe
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csi.exe.config
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\csi.rsp
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.AppContext.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Console.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\vbc.exe
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\vbc.exe.config
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\vbc.rsp
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\obj\Debug\Proyecto final.csprojAssemblyReference.cache
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\obj\Debug\Proyecto final.csproj.CopyComplete
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\obj\Debug\Proyecto final.dll
+C:\Users\Aleida Cespedes\Desktop\PF\Proyecto final\obj\Debug\Proyecto final.pdb
